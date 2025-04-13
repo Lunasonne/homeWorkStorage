@@ -1,4 +1,4 @@
-package Cohort59L.Less30Generic;
+package Cohort59L.Less30Generic.DomCounter;
 // Д/З. Написать generic метод, который считает, сколько раз заданный объект встречается в данном листе.
 // Ваш метод должен работать с листом любого типа
 

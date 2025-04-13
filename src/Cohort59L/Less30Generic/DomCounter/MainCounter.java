@@ -1,4 +1,4 @@
-package Cohort59L.Less30Generic;
+package Cohort59L.Less30Generic.DomCounter;
 
 import java.util.ArrayList;
 import java.util.List;
